@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+
+    background-image:url("flowers.jpg");
+
+    background-size: cover;
+}
+
+
+}
+#navbar {
+    color: green
+    margin: 20;
+}
+
+#navbar a{
+
+}
+
+.test-blocks{
+    color: purple;
+    margin: 5;
+}
+
+img{
+    float: Right;
+    height: 25%
